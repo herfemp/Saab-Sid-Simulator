@@ -1,0 +1,7 @@
+copy the Displaymatocx.ocx to system32 
+open cmd prompt as administrator
+type --->regsvr32.exe displaymatocx.ocx
+
+Should message you everything is fine and its now registered
+
+
